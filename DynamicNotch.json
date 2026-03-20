@@ -1,5 +1,8 @@
-  {
-  "isExpired": "true",
-  "message": "This version is outdated!",
-  "updateUrl": "https://t.me/Mr_Rakshit_2_0"
+{
+  "show_dialog": false,
+  "title": "Update Your App",
+  "message": "from Official Website",
+  "button_text": "Update Now ",
+  "button_url": "https://do.fantastindents.com/i3S0WZ3T3r6/131046"
+ 
 }
