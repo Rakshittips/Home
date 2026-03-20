@@ -1,9 +1,5 @@
-{
-  "showDialog": true,
-  "title": "Update Available",
-  "message": "Update is available on your device",
-  "showCloseButton": true,
-  "UpdateButtonUrl": "https://t.me/Mr_Rakshit_2_0",
-  "showUpdateButton": true,
-  "UpdateButtonText": "Download New"
+  {
+  "isExpired": "true",
+  "message": "This version is outdated!",
+  "updateUrl": "https://t.me/Mr_Rakshit_2_0"
 }
