@@ -1,0 +1,17 @@
+{
+  "Update": {
+    "Show": false,
+    "ForceUpdate": false,
+    "Version": "v16",
+    "Changelog": "What's New:\n\n• Base Updated to 424.0.0.0.39",
+    "GithubLink": "https://github.com/thepawdevs/PawGram",
+    "UpdateLink": "https://t.me/Mr_Rakshit_2_0"
+  },
+  "Welcome": {
+    "Show": true,
+    "Title": "Welcome to MRInsta",
+    "Message": "PAWGRAM IS AN INSTAGRAM ALPHA FORK WITH BUILT-IN IOS EMOJIS AND AD FREE EXPERIENCE WITH LIMITLESS CUSTOMISATIONS!",
+    "GithubLink": "https://github.com/thepawdevs/PawGram",
+    "CommunityLink": "https://t.me/Mr_Rakshit_2_0"
+  }
+}
